@@ -430,32 +430,3 @@ Go structs
    ↓
 JSON response
 ```
-
----
-
-## 15) What you should learn next
-
-If you want to understand the project deeply, learn these in order:
-
-1. Go basics: structs, functions, packages
-2. HTTP basics: requests, responses, JSON
-3. PostgreSQL basics: tables, rows, keys, relations
-4. SQL transactions: `BEGIN`, `COMMIT`, `ROLLBACK`
-5. Go + SQL patterns: repository/service layers
-6. Error handling and validation
-
-This project is a very good first backend project because it is small but still realistic.
-
----
-
-## 16) Final takeaway
-
-This is not a “big app” by modern standards, but it contains the core pieces of a real backend:
-
-- routing
-- business logic
-- database access
-- transactions
-- API responses
-
-That makes it a great learning project for understanding how real-world backend services are organized.
